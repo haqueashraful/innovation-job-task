@@ -2,7 +2,7 @@ import React from 'react';
 
 const Banner = () => {
     return (
-        <div className='banner-bg flex justify-center items-center'>
+        <div className='container-rn w-full banner-bg flex justify-center items-center'>
             <div className='container'>
                 {/* box 1 */}
                 <div className='box box1'>

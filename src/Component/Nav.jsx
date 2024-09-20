@@ -2,7 +2,7 @@ import React from "react";
 
 const Nav = () => {
   return (
-    <div className=" w-full bg-[#363636] text-white p-5 flex justify-between items-center ">
+    <div className="container-rn w-full bg-[#363636] text-white !py-5 flex justify-between items-center ">
       {/* nav item */}
       <div>
         <ul className="flex justify-between items-center gap-24">
